@@ -18,7 +18,7 @@ Got a screen capture of sparkle-of-lif-banner.png-->
 
 Nikola Tesla (1856 – 1943) was a Serbian born inventor, electrical engineer, mechanical engineer, physicist, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system. He also contributed to the invention of many aspects of modern technology, including radio, radar, x-ray machines, electric motors and wireless devices. In all he held over 300 registered patents.
 
-In addition to the above inventions, Tesla was working with several different forms of energy; including radiant energy, terrestrial standing waves and non-hertzian (Tesla) waves. An article, “The History of the Future; Nikola Tesla” detailing some of the achievements of Nikola Tesla can be accessed via this link: [History of the Future: Nikola Tesla](/files/The-History-of-the-Future-Nikola-Tesla.pdf).
+In addition to the above inventions, Tesla was working with several different forms of energy; including radiant energy, terrestrial standing waves and non-hertzian (Tesla) waves. An article, “The History of the Future; Nikola Tesla” detailing some of the achievements of Nikola Tesla can be accessed via this link: [History of the Future: Nikola Tesla](/The-History-of-the-Future-Nikola-Tesla.pdf).
 
 Through discovering how to access Tesla Waves and being called to “Reconstruct Tesla Healing”, [Anya Petrovic](http://www.teslametamorphosis.com/?lang=EN&pg_id=16&tt_id=24) has founded and developed Tesla Metamorphosis – a modality for healing and evolving.
 
