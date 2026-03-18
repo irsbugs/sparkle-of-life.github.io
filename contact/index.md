@@ -66,7 +66,7 @@ Ken Stewart
   <br/>
     
   <div>Mobile </div>
-  <input type="email" name="Mobile" required />
+  <input type="text" name="Mobile" required />
   <br/>        
 
   <div>E-Mail (required)</div>
