@@ -119,21 +119,14 @@ bg-dark
       height: 150px;
       }
 </style>
-<form action="https://formspree.io/f/maylvdvn" method="POST">
-
-    <div>First Name (required)</div>
-    <input type="text" name="First Name" required><br><div>Last Name (required)</div>
-    <input type="text" name="Last Name" required><br><div>Mobile </div>
-    <input type="email" name="Mobile" required><br><div>E-Mail (required)</div>
-    <input type="email" name="E-Mail" required><br><!-- If rows and cols are not used then use CSS width and height
-        rows="4" cols="100"--><div>Message</div>
-    <textarea name="Message"></textarea><br><br><button type="submit">Send</button>        
-
-</form>
-
-<!-- Test using web3form Goes to ian bugs email address- -->
-<form action="https://api.web3forms.com/submit" method="POST">
-  <input type="hidden" name="access_key" value="20f104a9-7fa7-4094-9b4b-e37400706629"><input type="text" name="name" required><input type="email" name="email" required><textarea name="message" required></textarea><button type="submit">Submit Form</button>
+<!-- <form action="https://formspree.io/f/maylvdvn" method="POST"> --><form action="https://api.web3forms.com/submit" method="POST">
+  <input type="hidden" name="access_key" value="20f104a9-7fa7-4094-9b4b-e37400706629"><div>First Name (required)</div>
+  <input type="text" name="First Name" required><br><div>Last Name (required)</div>
+  <input type="text" name="Last Name" required><br><div>Mobile </div>
+  <input type="email" name="Mobile" required><br><div>E-Mail (required)</div>
+  <input type="email" name="E-Mail" required><br><!-- If rows and cols are not used then use CSS width and height
+  rows="4" cols="100"--><div>Message</div>
+  <textarea name="Message"></textarea><br><br><button type="submit">Send</button>        
 </form>
     </div>
     
